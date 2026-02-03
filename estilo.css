@@ -474,7 +474,7 @@ border-color: var(--radio_checked) !important;
   }
 
   /* --> Cupom de desconto <-- */
-  .inner-coupon .coupon-sect {padding: 0 !important}
+
   /* --> Rich Text <-- */
   .checkout-richtext-section div, .checkout-richtext-section a, .checkout-richtext-section .backcart {
       margin: 0 !important;
