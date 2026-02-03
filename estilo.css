@@ -345,9 +345,9 @@ body .payment-method .collapse.show {
 body .funkyradio-default input[type="radio"]:checked ~ label::before, 
 body .funkyradio input[type="radio"]:checked + span.dot-pr, 
 body .payment-method .panel-heading[aria-expanded="true"] .dot-pr {
-      background-color: var(--default_color) !important;
-      border-color: var(--default_color) !important;
-  }
+      background-color: #007BFF !important;
+      border-color: #007BFF !important;
+}
   body[class*="template-"] #complete-payment, body[class*="template-"] #loader-button, #checkout-step-shipping, #checkout-step-personal {
       width: 100% !important;
   }
