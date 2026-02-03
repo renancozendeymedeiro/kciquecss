@@ -1,9 +1,6 @@
 /* Feito em 17 04 2025 */
   
-/* Box Cupom  */  
-body.template-checkout .coupon_success {
-    display: flex;
-    flex-direction: column;
+
 }  
 
 /* Valor total  */
